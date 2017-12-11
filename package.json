@@ -1,19 +1,24 @@
 {
   "name": "bs4starter",
   "version": "1.0.0",
-  "description": "A simple Bootstrap 4 Starter",
+  "description": "A simple Bootstrap 4 starter.",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "..."
   },
   "keywords": [
     "bootstrap",
-    "bootstrap4"
+    "boostrap",
+    "4"
   ],
   "author": "Anthony Norton",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-beta",
+    "bootstrap-beta": "^4.0.0-beta",
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.9"
